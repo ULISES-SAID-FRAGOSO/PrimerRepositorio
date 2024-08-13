@@ -8,3 +8,10 @@ Tareas:
 4. modificar el archivo README.md
 ` git push origin main `
 5. Verificar los cambios
+
+---
+
+> En caso de desear descargar cambios utiliza 
+`git pull origin main`
+
+![Image](https://github.com/fluidicon.png)
